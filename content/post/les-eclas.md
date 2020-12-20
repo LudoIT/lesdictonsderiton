@@ -1,12 +1,11 @@
 ---
 author: "Ludovic"
-date: 2020-12-09T22:30
+date: 2020-12-19T22:30
 linktitle: les-eclats 
 title: Les Eclats
-weight: 9
+weight: 1
 series:
-- Hugo 101
-show_summary: false 
+- Hugo 101 
 ---
 
 Il faut mieux regarder quelqu'un qui chier que quelqu'un qui piche ...

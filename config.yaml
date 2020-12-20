@@ -1,4 +1,4 @@
-baseURL: https://lesdictonsderiton.fr
+baseURL: https://lesdictonsderiton.netlify.app/
 languageCode: fr-FR
 defaultContentLanguage: fr
 title: Les dictons de Riton
@@ -22,7 +22,7 @@ imaging:
 params:
   homeMetaContent: A Hugo theme made with PaperCSS, the less formal CSS framework.
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2006
+  dateFormat: 2 Jan , 2006
   navTitleLink: /
 
 menu:
@@ -36,9 +36,9 @@ menu:
     - name: A propos
       url: /apropos/
       weight: 3
-    - name: RSS
-      url: /index.xml
-      weight: 4
+    # - name: RSS
+    #   url: /index.xml
+    #   weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark
