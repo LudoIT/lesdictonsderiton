@@ -1,0 +1,13 @@
+[build]
+  command = "hugo"
+  context = "production"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.75.0"
+  HUGO_ENV = "production"
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+      Access-Control-Allow-Origin = "*"
