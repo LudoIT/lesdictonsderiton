@@ -1,11 +1,17 @@
 ---
 author: "Ludovic"
-date: 2020-12-09T22:30
+date: "2020-12-09"
 linktitle: Feu d'or 
 title: Le feu d'or
 weight: 2
+tags : [
+    "amour",
+    "dicton",
+    "caca",   
+]
 series:
 - Hugo 101
+
 ---
 
 L'amour est un feu d'or!

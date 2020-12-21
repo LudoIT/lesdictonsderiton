@@ -1,9 +1,13 @@
 ---
 author: "Ludovic"
-date: 2020-12-09T22:30
+date: "2020-12-09"
 linktitle: Le parfum 
 title: Le parfum
 weight: 5
+tags : [
+    "Repas",
+    "dicton",   
+]
 series:
 - Hugo 101
 ---

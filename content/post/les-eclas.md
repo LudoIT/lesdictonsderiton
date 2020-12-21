@@ -1,9 +1,14 @@
 ---
 author: "Ludovic"
-date: 2020-12-19T22:30
+date: "2020-12-19"
 linktitle: les-eclats 
 title: Les Eclats
 weight: 1
+tags : [
+    "boulot",
+    "dicton",
+    "caca",   
+]
 series:
 - Hugo 101 
 ---
