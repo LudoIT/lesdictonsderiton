@@ -1,6 +1,6 @@
 ---
 author: "Ludovic"
-date: "2020-12-09T22:30"
+date: "2020-12-09"
 linktitle: trop-aide 
 title: Trop aidé
 weight: 1
