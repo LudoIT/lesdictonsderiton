@@ -13,6 +13,4 @@ series:
 - Hugo 101 
 ---
 
-Il faut mieux regarder quelqu'un qui chier que quelqu'un qui piche ...
-
-Ca fait moins d'écats!
+Il vaut mieux regarder quelqu'un qui chie que quelqu'un qui pioche ... ça fait moins d'éclats!

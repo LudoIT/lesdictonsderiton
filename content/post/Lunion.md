@@ -1,9 +1,9 @@
 ---
 author: "Ludovic"
 date: "2020-12-09"
-linktitle: Le parfum 
-title: Le parfum
-weight: 5
+linktitle: L'union
+title: L'union
+weight: 6
 tags : [
     "Repas",
     "dicton",   
@@ -12,7 +12,6 @@ series:
 - Hugo 101
 ---
 
-C'est quel parum?
-Fleur d'anus!!
+L'union fait la force.
 
-
+L'oignon fait la soupe!

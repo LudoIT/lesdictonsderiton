@@ -7,12 +7,12 @@ author = "Ludovic DURAND"
 
 ## Contact :
 
-Vous pouvez nous contacter pour toutes delabde de renseignement ou enrichissement du contenus par mail : 
+Vous pouvez nous contacter pour toutes demande de renseignements ou enrichissement du contenu par mail : 
 lesdictonsderiton@tuta.io
 
 ## RGPD :
 
-Ce site ne collecte pas d'information sur ces visitureur , n'utilise pas de cookies, et ne revend pas ces informations à des tiers.
+Ce site ne collecte pas d'informations sur ses visiteur, n'utilise pas de cookies, et ne revend pas ses informations à des tiers.
 
 ## Auteur :
 
@@ -20,15 +20,15 @@ Ce site est réalisé par Ludovic DURAND.
 
 ## Contenus :
 
-Ce site à pour but de retranscire les dictons, blagues, chansons et autres ritournelles de l'Henri PERRIER,
+Ce site a pour but de retranscire les dictons, blagues, chansons et autres ritournelles de l'Henri PERRIER.
 
 ## Thechnique :
 
-Ce site static est créé avec la méthode JamStack : 
+Ce site statique est créé avec la méthode JamStack : 
 * https://jamstatic.fr/ 
 * https://buzut.net/sites-statiques-et-jamstack-la-revolution-frontend/
 
-Ce site est créer grace à GoHugo : 
+Ce site est créé grâce à GoHugo : 
 * https://gohugo.io/
 
 Ce site utilise le thème PaperCSS :  

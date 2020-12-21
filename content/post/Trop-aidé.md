@@ -12,7 +12,7 @@ series:
 - Hugo 101
 ---
 
-On est jamais trop aidé dans la vie !
+On n'est jamais trop aidé dans la vie !
 
 
 
