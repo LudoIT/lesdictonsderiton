@@ -8,7 +8,7 @@ author = "Ludovic DURAND"
 ## Contact :
 
 Vous pouvez nous contacter pour toutes delabde de renseignement ou enrichissement du contenus par mail : 
-contact@dictonsderiton.fr
+lesdictonsderiton@tuta.io
 
 ## RGPD :
 
