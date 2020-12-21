@@ -12,7 +12,7 @@ lesdictonsderiton@tuta.io
 
 ## RGPD :
 
-Ce site ne collecte pas d'informations sur ses visiteur, n'utilise pas de cookies, et ne revend pas ses informations à des tiers.
+Ce site ne collecte pas d'informations sur ses visiteurs, n'utilise pas de cookies, et ne revend pas ses informations à des tiers.
 
 ## Auteur :
 
