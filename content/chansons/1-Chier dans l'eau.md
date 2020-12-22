@@ -13,9 +13,16 @@ series:
 ---
 
     Ah ! Que c'est beau de chier dans l'eau!
- 
+
     De voir sa merde qui nage!
- 
+
     Si j'avais su qu'c'était si beau,
 
     J'aurais chié davantage.
+
+    
+
+<audio controls>
+  <source src="/static/chierdansleau.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
