@@ -3,7 +3,7 @@ languageCode: fr-FR
 defaultContentLanguage: fr
 title: Les dictons de Riton
 theme: papercss-hugo-theme
-# googleAnalytics: UA-123456789-1
+#googleAnalytics: 
 disqusShortname: yourdiscussshortname
 
 privacy:

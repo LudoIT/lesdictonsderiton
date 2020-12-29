@@ -1,7 +1,7 @@
 ---
 author: "Ludovic"
 date: "2020-12-21"
-linktitle: Chier dans l'eau  
+linktitle: chier-dans-leau  
 title: Chier dans l'eau
 weight: 1
 tags : [
