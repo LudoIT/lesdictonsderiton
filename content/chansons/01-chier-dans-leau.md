@@ -19,6 +19,3 @@ series:
     Si j'avais su qu'c'était si beau,
 
     J'aurais chié davantage.
-
-    
-
