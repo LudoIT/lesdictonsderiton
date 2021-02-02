@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boulot on Les dictons de Riton</title>
+    <link>https://lesdictonsderiton.netlify.app/tags/boulot/</link>
+    <description>Recent content in boulot on Les dictons de Riton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdictonsderiton.netlify.app/tags/boulot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trop aidé</title>
+      <link>https://lesdictonsderiton.netlify.app/blagues/1-trop-aid%C3%A9/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/blagues/1-trop-aid%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trop aidé</title>
+      <link>https://lesdictonsderiton.netlify.app/1-trop-aid%C3%A9/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/1-trop-aid%C3%A9/</guid>
+      <description>On n&amp;rsquo;est jamais trop aidé dans la vie !</description>
+    </item>
+    
+    <item>
+      <title>Les Eclats</title>
+      <link>https://lesdictonsderiton.netlify.app/4-les-eclas/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/4-les-eclas/</guid>
+      <description>Il vaut mieux regarder quelqu&amp;rsquo;un qui chie que quelqu&amp;rsquo;un qui pioche &amp;hellip; ça fait moins d&amp;rsquo;éclats!</description>
+    </item>
+    
+  </channel>
+</rss>

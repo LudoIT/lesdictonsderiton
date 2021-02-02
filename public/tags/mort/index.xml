@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mort on Les dictons de Riton</title>
+    <link>https://lesdictonsderiton.netlify.app/tags/mort/</link>
+    <description>Recent content in mort on Les dictons de Riton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdictonsderiton.netlify.app/tags/mort/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le-temp-perdu</title>
+      <link>https://lesdictonsderiton.netlify.app/14-le-temp-perdu/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/14-le-temp-perdu/</guid>
+      <description>Il est mort comme il à vecu. Prier pour lui serait du temps perdu.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chansons on Les dictons de Riton</title>
+    <link>https://lesdictonsderiton.netlify.app/chansons/</link>
+    <description>Recent content in Chansons on Les dictons de Riton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdictonsderiton.netlify.app/chansons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chier dans l&#39;eau</title>
+      <link>https://lesdictonsderiton.netlify.app/chansons/1-chier-dans-leau/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/chansons/1-chier-dans-leau/</guid>
+      <description>Ah ! Que c&#39;est beau de chier dans l&#39;eau! De voir sa merde qui nage! Si j&#39;avais su qu&#39;c&#39;était si beau, J&#39;aurais chié davantage. </description>
+    </item>
+    
+    <item>
+      <title>Chier dans l&#39;eau</title>
+      <link>https://lesdictonsderiton.netlify.app/chansons/01-chier-dans-leau/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/chansons/01-chier-dans-leau/</guid>
+      <description>Ah ! Que c&#39;est beau de chier dans l&#39;eau! De voir sa merde qui nage! Si j&#39;avais su qu&#39;c&#39;était si beau, J&#39;aurais chié davantage. </description>
+    </item>
+    
+  </channel>
+</rss>

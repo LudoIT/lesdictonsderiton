@@ -1,39 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dictons on Les dictons de Riton</title>
-    <link>https://lesdictonsderiton.netlify.app/</link>
-    <description>Recent content in Dictons on Les dictons de Riton</description>
+    <title>Posts on Les dictons de Riton</title>
+    <link>https://lesdictonsderiton.netlify.app/post/</link>
+    <description>Recent content in Posts on Les dictons de Riton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdictonsderiton.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chier dans l&#39;eau</title>
-      <link>https://lesdictonsderiton.netlify.app/chansons/1-chier-dans-leau/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lesdictonsderiton.netlify.app/chansons/1-chier-dans-leau/</guid>
-      <description>Ah ! Que c&#39;est beau de chier dans l&#39;eau! De voir sa merde qui nage! Si j&#39;avais su qu&#39;c&#39;était si beau, J&#39;aurais chié davantage. </description>
-    </item>
-    
-    <item>
-      <title>Chier dans l&#39;eau</title>
-      <link>https://lesdictonsderiton.netlify.app/chansons/01-chier-dans-leau/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lesdictonsderiton.netlify.app/chansons/01-chier-dans-leau/</guid>
-      <description>Ah ! Que c&#39;est beau de chier dans l&#39;eau! De voir sa merde qui nage! Si j&#39;avais su qu&#39;c&#39;était si beau, J&#39;aurais chié davantage. </description>
-    </item>
-    
-    <item>
-      <title>Trop aidé</title>
-      <link>https://lesdictonsderiton.netlify.app/blagues/1-trop-aid%C3%A9/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lesdictonsderiton.netlify.app/blagues/1-trop-aid%C3%A9/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdictonsderiton.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trop aidé</title>
       <link>https://lesdictonsderiton.netlify.app/1-trop-aid%C3%A9/</link>
@@ -172,18 +145,6 @@ L&amp;rsquo;arrivée du général caca.</description>
       
       <guid>https://lesdictonsderiton.netlify.app/15-senir/</guid>
       <description>Si tu te sens pas bien, Fait toi sentir par ton voisin!</description>
-    </item>
-    
-    <item>
-      <title>A propos</title>
-      <link>https://lesdictonsderiton.netlify.app/apropos/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lesdictonsderiton.netlify.app/apropos/</guid>
-      <description>Contact : Vous pouvez nous contacter pour toutes demandes de renseignements ou enrichissement du contenu par mail : lesdictonsderiton@tuta.io
-RGPD : Ce site ne collecte pas d&amp;rsquo;informations sur ses visiteurs, n&amp;rsquo;utilise pas de cookies, et ne revend pas ses informations à des tiers.
-Auteur : Ce site est réalisé par Ludovic DURAND.
-Contenus : Ce site a pour but de retranscire les dictons, blagues, chansons et autres ritournelles de l&amp;rsquo;Henri PERRIER.</description>
     </item>
     
   </channel>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repas on Les dictons de Riton</title>
+    <link>https://lesdictonsderiton.netlify.app/tags/repas/</link>
+    <description>Recent content in Repas on Les dictons de Riton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdictonsderiton.netlify.app/tags/repas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;union</title>
+      <link>https://lesdictonsderiton.netlify.app/2-lunion/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/2-lunion/</guid>
+      <description>L&amp;rsquo;union fait la force.
+L&amp;rsquo;oignon fait la soupe!</description>
+    </item>
+    
+    <item>
+      <title>Le parfum</title>
+      <link>https://lesdictonsderiton.netlify.app/5-le-parfum/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/5-le-parfum/</guid>
+      <description>C&amp;rsquo;est quel parfum? Fleur d&amp;rsquo;anus!!</description>
+    </item>
+    
+  </channel>
+</rss>

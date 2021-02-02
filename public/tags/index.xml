@@ -1,10 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Les dictons de Riton</title>
+    <link>https://lesdictonsderiton.netlify.app/tags/</link>
+    <description>Recent content in Tags on Les dictons de Riton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdictonsderiton.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dicton</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/dicton/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/dicton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mort</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/mort/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/mort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentir</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/sentir/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/sentir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aveugle</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/aveugle/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/aveugle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bave</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/bave/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/bave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cocu</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/cocu/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/cocu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amour</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/amour/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/amour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boulot</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/boulot/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/boulot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caca</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/caca/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/caca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chansons</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/chansons/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/chansons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dégeulasse</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/d%C3%A9geulasse/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/d%C3%A9geulasse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>la folie</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/la-folie/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/la-folie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repas</title>
+      <link>https://lesdictonsderiton.netlify.app/tags/repas/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lesdictonsderiton.netlify.app/tags/repas/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
