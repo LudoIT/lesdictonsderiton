@@ -12,6 +12,18 @@ series:
 - Hugo 101
 ---
 
-    J'aime tes yeux derrier tes lunettes
+    Oh! U ! Oh! Ursule!
+    Pour toi d'amour mon coeur brûle!
+    Il faudrait, il faudrait
+    une pompe à vapeur
+    Pour éteindre le feu
+    qui consume mon coeur
 
-    Elle me font penser au phare de ma camionnette.
+    J'aime tes grands yeux
+    derrière tes lunettes
+    Ils me font penser
+    aux phares de ma camionnette
+
+<audio controls>
+    <source src="../02-Ursule-paroles-accords-et-musique.mp3" type="audio/mp3">
+</audio>

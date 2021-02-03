@@ -19,3 +19,7 @@ series:
     Si j'avais su qu'c'était si beau,
 
     J'aurais chié davantage.
+
+<audio controls>
+  <source src="../01-Ah-Que-c'est-beau-de-chier-dans-l-eau.mpeg" type="audio/mpeg">
+</audio>
