@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   {{ partial "head.html" . }}
-  {{ partial "google-analytics-async.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+
   <body>
     <div class="container paper">
       {{ partial "nav.html" . }}
