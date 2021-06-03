@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-  {{ partial "head.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
+{{ partial "head.html" . }}
 
-  <body>
+<body>
     <div class="container paper">
-      {{ partial "nav.html" . }}
-      <main>
-        {{ block "main" . }}{{ end }}
-      </main>
-  </div>
-  </body>
+        {{ partial "nav.html" . }}
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+    </div>
+</body>
+
 </html>
