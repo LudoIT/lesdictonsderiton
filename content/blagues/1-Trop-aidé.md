@@ -12,6 +12,10 @@ series:
 - Hugo 101
 ---
 
+On est jamais trop aidé dans la vie!
+
+Note : bien faire la liaison.
+
 
 
 
